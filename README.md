@@ -61,8 +61,8 @@ class AgentResponse(BaseModel):
 ### Setup
 
 ```bash
-git clone https://github.com/nimishac28/<repo-name>.git
-cd <repo-name>
+git clone https://github.com/nimishac28/<langchain_agent>.git
+cd <langchain_agent>
 ```
 
 Using [uv](https://docs.astral.sh/uv/):
